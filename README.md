@@ -1,3 +1,5 @@
+Juan David Rayo Tejada - 20231020023
+Jonnatan Camargo Camacho  - 20231020204
 # 🎮 PATRONES DE DISEÑO IMPLEMENTADOS EN SQUASH
 
 ## ✅ **10 PATRONES IMPLEMENTADOS**
