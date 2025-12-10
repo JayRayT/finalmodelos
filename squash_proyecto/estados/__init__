@@ -1,0 +1,4 @@
+# estados/__init__.py
+from .gestor_estados import Estado, GestorEstados
+
+__all__ = ['Estado', 'GestorEstados']
